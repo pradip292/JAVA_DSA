@@ -2,14 +2,14 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 public class Sorting {
     public static void main(String[] args){
-        int[] arr={3,5,1,2,41,45,1,-1,4};
+        int[] arr={4,3,2,1};
         int n= arr.length;
-        //BubbleSort(arr);
+        BubbleSort(arr);
         //SelectionSort(arr);
         //InsertionSort(arr);
         //Arrays.sort(arr);
         //divide(arr,0,n-1);
-        quicksort(arr,0,n-1);
+        //quicksort(arr,0,n-1);
         PrintArr(arr);
 
     }

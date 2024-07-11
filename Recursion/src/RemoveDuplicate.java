@@ -9,10 +9,14 @@ public class RemoveDuplicate {
 
         char currentChar = str.charAt(idx);
 
-        if (map[currentChar - 'a'] != null && map[currentChar - 'a']) {
+        if (map[currentChar - 'a'] != null && map[currentChar - 'a'])
+        {
             removeDuplicate(str, idx + 1, newStr, map);
-        } else {
-            if (map[currentChar - 'a'] == null) {
+        }
+        else
+        {
+            if (map[currentChar - 'a'] == null)
+            {
                 map[currentChar - 'a'] = true;
             }
             removeDuplicate(str, idx + 1, newStr.append(currentChar), map);

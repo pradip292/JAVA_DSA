@@ -2,12 +2,12 @@ public class Recursion_Basics {
     public static void main(String[] args){
            int n=6;
            int[] arr= {1,2,3,4,5};
-           System.out.print(sorted_or_not(arr,0));
+           //System.out.print(sorted_or_not(arr,0));
            //decrease(n);
            //increase(n);
            // System.out.print(factorial(n));
             //System.out.print(sum(n));
-            //System.out.print(fabo(n));
+            System.out.print(fabo(n));
     }
     public static void decrease(int n){
         if(n==1){
