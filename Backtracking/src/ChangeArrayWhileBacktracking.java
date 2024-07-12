@@ -1,6 +1,7 @@
-public class ChangeArray {
+public class ChangeArrayWhileBacktracking
+{
     public static void changeArray(int[] arr, int i, int value){
-        //base
+        //base case
         if(i==arr.length){
             printarray(arr);
             return;
