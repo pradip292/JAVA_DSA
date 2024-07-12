@@ -1,6 +1,6 @@
 // find the number way of arranging the queen in row
 public class FindNumberPossibleWay {
-
+    //nn queens
     public static boolean isSafe(char[][] board, int row, int col){
         // vertically checking is any Q is there or not
         for(int i=row-1; i>=0; i--){
@@ -9,7 +9,7 @@ public class FindNumberPossibleWay {
             }
         }
 
-        //diagonal left up move
+        //diagonal left up move from that element --
 
         for(int i=row-1, j=col-1; i>=0 && j>=0; i--,j--){
             if(board[i][j] == 'Q'){
@@ -17,7 +17,7 @@ public class FindNumberPossibleWay {
             }
         }
 
-        // diagonal right up move
+        // diagonal right up move from that element -+
 
         for(int i=row-1, j=col+1; i>=0 && j<board.length; i--,j++){
             if(board[i][j] == 'Q'){
