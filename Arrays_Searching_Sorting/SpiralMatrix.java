@@ -18,7 +18,6 @@ public class SpiralMatrix {
                 System.out.print(matrix[i][endColumn] + " ");
             }
 
-
             // Bottom print
 
             for (int j = endColumn-1; j >= startColumn; j--) {
