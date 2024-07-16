@@ -1,3 +1,5 @@
+package Practice;
+
 public class AlternateCAPS {
     public static void main(String[] args){
         String str = "Pradip";
