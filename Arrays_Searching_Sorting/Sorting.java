@@ -4,8 +4,8 @@ public class Sorting {
     public static void main(String[] args){
         int[] arr={4,3,2,1};
         int n= arr.length;
-        BubbleSort(arr);
-        //SelectionSort(arr);
+        //BubbleSort(arr);
+        SelectionSort(arr);
         //InsertionSort(arr);
         //Arrays.sort(arr);
         //divide(arr,0,n-1);
