@@ -1,4 +1,4 @@
-package Accenture;
+package MostAsked;
 
 public class pallindromestring {
     public static boolean ispallindrome(String str){
