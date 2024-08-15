@@ -18,14 +18,14 @@ public class mergetwosortedarray {
                 j++;
             }
         }
-            while (i<arr1.length) {
-                arrayList.add(arr1[i]);
-                i++;
-            }
-            while (j<arr2.length) {
-                arrayList.add(arr2[j]);
-                j++;
-            }
+        while (i<arr1.length) {
+            arrayList.add(arr1[i]);
+            i++;
+        }
+        while (j<arr2.length) {
+            arrayList.add(arr2[j]);
+            j++;
+        }
 
         int[] res = new int[arrayList.size()];
         for(int k=0; k<arrayList.size();k++){
