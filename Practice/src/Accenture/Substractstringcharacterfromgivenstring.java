@@ -1,7 +1,7 @@
 package Accenture;
 
 // input - AABACC
-// input -AB
+// input - AB
 // output - CC
 
 import java.util.HashMap;
@@ -24,7 +24,6 @@ public class Substractstringcharacterfromgivenstring {
                 str.append(str1.charAt(j));
             }
         }
-
         System.out.println(str);
     }
 }
