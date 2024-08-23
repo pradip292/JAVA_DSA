@@ -1,8 +1,6 @@
-package MostAsked;
+package Accenture_35pages;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class Same_Char_In_A_String_Checker {
 //    public static boolean strcmp(String str1, String str2) {

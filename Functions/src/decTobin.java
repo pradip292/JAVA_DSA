@@ -1,6 +1,6 @@
 public class decTobin {
     public static void main(String args[]){
-        dectobin(5);
+        dectobin(100);
     }
     public static void dectobin(int dec){
         int myNum= dec;
