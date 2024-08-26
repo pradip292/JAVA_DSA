@@ -1,4 +1,4 @@
-package Practice;
+package Asked2025;
 
 import static java.lang.Character.isDigit;
 

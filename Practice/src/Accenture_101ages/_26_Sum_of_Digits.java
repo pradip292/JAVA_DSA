@@ -1,4 +1,4 @@
-package Accenture;
+package Accenture_101ages;
 
 public class _26_Sum_of_Digits {
     public static void main(String[] args){

@@ -1,8 +1,4 @@
-package Accenture;
-
-import org.omg.CORBA.PUBLIC_MEMBER;
-
-import javax.swing.plaf.PanelUI;
+package Accenture_101ages;
 
 public class _27_APPLE_DISTRUBUTION {
     public static void ifFair(int n, int mi, int ma, int w) {

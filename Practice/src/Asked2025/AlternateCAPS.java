@@ -1,4 +1,4 @@
-package Practice;
+package Asked2025;
 
 public class AlternateCAPS {
     public static void main(String[] args){
