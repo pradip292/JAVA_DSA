@@ -10,7 +10,6 @@ public class Array_Intersection {
         // Inserting array elements in s
         for (int i = 0; i < n; i++)
             s.add(a[i]);
-
         for (int i = 0; i < m; i++)
             s.add(b[i]);
         System.out.print("Number of elements after union operation: " + s.size() + "\n");
