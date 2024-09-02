@@ -1,4 +1,4 @@
-package Accenture_101ages;
+package Accenture_101pages;
 
 public class _27_APPLE_DISTRUBUTION {
     public static void ifFair(int n, int mi, int ma, int w) {
