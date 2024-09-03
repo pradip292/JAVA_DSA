@@ -1,4 +1,4 @@
-package Accenture_35pages;
+package Accenture_101pages;
 
 public class Z_Pattern_of_Stars {
     public static void main(String[] args) {
