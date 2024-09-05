@@ -2,7 +2,7 @@ package Accenture_101pages;
 
 public class _20_7_DIVISIBILITY_CHECK_PROBLEM {
     public static void main(String[] args) {
-        int n1= 64;
+        int n1= 71;
         int n2= 8;
         if(n1%n2==0){
            System.out.println(n1);
