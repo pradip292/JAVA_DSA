@@ -2,7 +2,7 @@
 import java.util.*;
 public class Nearest_Meeting_Cell {
     public static int minimumWeight(int n, int[] edges, int C1, int C2) {
-//Create directed graph from the array given in input
+        //Create directed graph from the array given in input
         List<List<Integer>> graph = new ArrayList<>();
         for(int i=0;i<n;i++){
             graph.add(new ArrayList<Integer>());
@@ -12,7 +12,7 @@ public class Nearest_Meeting_Cell {
                 graph.get(i).add(edges[i]);
             }
         }
-//Create two arrays A and B for storing min distance from C1 and C2
+        //Create two arrays A and B for storing min distance from C1 and C2
         long[] A = new long[n];
         long[] B = new long[n];
         Arrays.fill(A,Long.MAX_VALUE);

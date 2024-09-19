@@ -32,7 +32,8 @@ class Solution1 {
         System.out.print("Enter the number of nodes (N): ");
         int N = sc.nextInt();
 
-        // Reading the edge list
+        // Reading th
+        // e edge list
         int[] Edge = new int[N];
         System.out.println("Enter the edges (-1 if no outgoing edge): ");
         for (int i = 0; i < N; i++) {
