@@ -1,0 +1,32 @@
+Index: ../README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Java Data Structures and Algorithms\r\n\r\nWelcome to the Java Data Structures and Algorithms repository! \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../README.md b/../README.md
+--- a/../README.md	(revision 295a15d33304077af0fefd54081f1921dafda1bc)
++++ b/../README.md	(date 1727616708192)
+@@ -1,3 +1,4 @@
+ # Java Data Structures and Algorithms
+ 
+ Welcome to the Java Data Structures and Algorithms repository! 
++.
+Index: ../Juspay/Juspay.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Juspay/Juspay.iml b/../Juspay/Juspay.iml
+--- a/../Juspay/Juspay.iml	(revision 295a15d33304077af0fefd54081f1921dafda1bc)
++++ b/../Juspay/Juspay.iml	(date 1727616708192)
+@@ -8,4 +8,4 @@
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+-</module>
+\ No newline at end of file
++</module>
