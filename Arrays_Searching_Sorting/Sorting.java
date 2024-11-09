@@ -5,11 +5,11 @@ public class Sorting {
         int[] arr={4,3,2,1};
         int n= arr.length;
         //BubbleSort(arr);
-        SelectionSort(arr);
+        //SelectionSort(arr);
         //InsertionSort(arr);
         //Arrays.sort(arr);
         //divide(arr,0,n-1);
-        //quicksort(arr,0,n-1);
+        quicksort(arr,0,n-1);
         PrintArr(arr);
 
     }
@@ -128,5 +128,17 @@ public class Sorting {
         arr[i]=pivot;
         arr[high]=temp;
         return i;
+        // int pivot=arr[low];
+        // int i=low;
+        // int j=high;
+        // while(i<j){
+        //     while(arr[i]<pivot){i++;};
+        //     while(arr[j]>pivot){j--;};
+        //     if(i<j){
+        //         swap(arr,i,j);
+        //     }
+        // }
+        // swap(arr,low,j);
+        // return j;
     }
 }

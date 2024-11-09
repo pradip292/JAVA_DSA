@@ -14,7 +14,7 @@ class DFS {
             }
         }
     }
-
+    
     public static void main(String[] args) {
         // Scanner to read input
         Scanner sc = new Scanner(System.in);
