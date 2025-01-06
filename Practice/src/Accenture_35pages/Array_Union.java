@@ -1,11 +1,10 @@
 package Accenture_35pages;
-
 import java.util.ArrayList;
 
 public class Array_Union {
     public static void main(String[] args) {
         int[] arr1= {1,2,3,4,5,6};
-        int[] arr2= {4,5,6,7,9};
+        int[] arr2= {4,5,6,4,7,9};
         ArrayList<Integer>  inter= new ArrayList<>();
         ArrayList<Integer> union= new ArrayList<>();
         for(int i=0; i< arr1.length;i++){

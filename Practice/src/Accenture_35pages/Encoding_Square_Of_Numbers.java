@@ -14,3 +14,4 @@ public class Encoding_Square_Of_Numbers{
         System.out.println(res);
     }
 }
+

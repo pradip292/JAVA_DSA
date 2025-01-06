@@ -11,4 +11,5 @@ public class substring_subarray {
             System.out.println(substring);
         }
     }
+
 }

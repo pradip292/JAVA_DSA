@@ -25,3 +25,4 @@ public class BinaryStringCounter {
         System.out.println(CountBinaryStrings(4)); // Output: 8
     }
 }
+

@@ -38,3 +38,4 @@ public class Magical_Number {
         return sum;
     }
 }
+

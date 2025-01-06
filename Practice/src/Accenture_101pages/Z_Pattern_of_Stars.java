@@ -16,3 +16,4 @@ public class Z_Pattern_of_Stars {
         }
     }
 }
+

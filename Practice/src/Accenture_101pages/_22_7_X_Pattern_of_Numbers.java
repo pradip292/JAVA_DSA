@@ -16,3 +16,4 @@ public class _22_7_X_Pattern_of_Numbers {
         }
     }
 }
+

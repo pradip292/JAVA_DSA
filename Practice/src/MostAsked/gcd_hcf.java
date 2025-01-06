@@ -13,3 +13,4 @@ public class gcd_hcf {
         System.out.println(calculategcd(a,b));
     }
 }
+

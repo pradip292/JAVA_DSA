@@ -10,6 +10,7 @@ public class MIssing_number {
             sum+=arr[i];
         }
         int diff= sum_of_n-sum;
+
         System.out.println(diff);
     }
 }

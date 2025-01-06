@@ -40,3 +40,4 @@ public class OccurrenceOfSecondLargestElement {
         System.out.println("Occurrence of second largest element: " + count);
     }
 }
+

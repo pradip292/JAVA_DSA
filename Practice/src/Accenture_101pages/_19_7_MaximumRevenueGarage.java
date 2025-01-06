@@ -56,3 +56,4 @@ public class _19_7_MaximumRevenueGarage {
         System.out.println("Maximum revenue generated: " + result);
     }
 }
+

@@ -16,3 +16,4 @@ public class pallindromestring {
         System.out.println(ispallindrome(str));
     }
 }
+

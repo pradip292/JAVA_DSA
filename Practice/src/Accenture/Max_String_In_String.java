@@ -2,7 +2,7 @@ package Accenture;
 
 import java.util.Arrays;
 
-public class maxstriinginstringarray {
+public class Max_String_In_String {
     public static void main(String[] args){
         String str= "my name is pradip and i know inspired how i am i";
         String[] str1= str.split(" ");

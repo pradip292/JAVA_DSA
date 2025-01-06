@@ -27,7 +27,7 @@ public class Rhyming_String {
     public static void main(String[] args) {
         String str = "wotter";
         String[] s1 ={"pater", "gatter", "mattser"};
-
         System.out.println(findrhymingword(s1,str));
     }
 }
+

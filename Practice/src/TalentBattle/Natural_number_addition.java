@@ -12,3 +12,4 @@ public class Natural_number_addition {
     System.out.println(sum);
 }
 }
+

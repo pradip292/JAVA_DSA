@@ -10,3 +10,4 @@ public class _28_8_FactorialCalculation {
         System.out.println(fact);
     }
 }
+

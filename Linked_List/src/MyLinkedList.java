@@ -25,6 +25,7 @@ public class MyLinkedList {
 
     // Method to add a node at the beginning of the list
     public static Node addFirst(Node head, int data) {
+
         Node newNode = new Node(data);
         newNode.next = head;
         return newNode;

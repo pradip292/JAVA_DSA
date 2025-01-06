@@ -8,11 +8,12 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Substractstringcharacterfromgivenstring {
+public class Substract_Char_From_String {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         String str1= sc.next();
         String str2= sc.next();
+
         StringBuilder str= new StringBuilder();
         HashSet<Character> hs = new HashSet<>();
         for(int i=0; i<str2.length();i++){

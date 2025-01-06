@@ -16,3 +16,4 @@ public class AlternateCAPS {
         System.out.print(str1);
     }
 }
+

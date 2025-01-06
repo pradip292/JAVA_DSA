@@ -4,7 +4,6 @@ public class SubarrayExample {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 4};
         int n = arr.length;
-
         // Iterate through all starting points of subarrays
         for (int start = 0; start < n; start++) {
             // Iterate through all ending points of subarrays
@@ -23,3 +22,4 @@ public class SubarrayExample {
         System.out.println(); // Move to the next line after printing the subarray
     }
 }
+

@@ -26,3 +26,4 @@ public class RemoveDuplicatesCharactersFromString {
         System.out.println("String after removing duplicates: " + result.toString());
     }
 }
+

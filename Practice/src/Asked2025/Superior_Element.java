@@ -20,3 +20,4 @@ public class Superior_Element {
         System.out.println(count);  // The count of superior elements
     }
 }
+

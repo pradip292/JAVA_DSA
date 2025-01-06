@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3425a5f-deed-4ecd-a824-597bb903c44a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Rearrange_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Rotate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Second_String_In_First_Repeted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Zeros_Last.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture/pract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Add_Binary_Number_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Haloween_Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Matrix_Zeros_In_Rows_Coloum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/PlayList_Most_Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Set_bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Coconut_Sweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Compress_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Dublicate_Elements_Using_Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Logical_Operations_Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Permutations_Of_Cosonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Reverse_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/File_Greater_Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Largest_Number_Of_Word_In_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Pattern_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Reverse_A_Binary_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Reversed_Even_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays_Searching_Sorting/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays_Searching_Sorting/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays_Searching_Sorting/out/production/Arrays/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays_Searching_Sorting/out/production/Arrays/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/Array_pair_diff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Array_Element_Diff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/Cost_of_dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Cost_of_dishes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/MIssing_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/MIssing_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/Magical_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Magical_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/Password_Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Password_Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/RotateWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Rotate_Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/SortedArraysAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/SortedArraysAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/StringtoInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/StringtoInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/Substractstringcharacterfromgivenstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Substract_Char_From_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/countMaxRepeatedSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Count_Max_Consective_Charcters_In_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/countnumberofeachelementinaarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Count_Each_Element_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/filenameascending.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Ascending_File_Names.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/findmaxinarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Max_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/findmidindexforequilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Find_Equilibrium_Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/findmissingnumberinaarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Find_Missing_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/intersectionofthearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Intersection_Of_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/lengthofuniquecharacterinastring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Length_Of_Unique_Element_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/maxstriinginstringarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Max_String_In_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/mergetwosortedarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Merged_Two_Shorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/removedublicatesinaarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/removedublicatesinaarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/reversestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/reversestring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/secondlargestnumberinaaray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/secondlargestnumberinaaray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/uniquesum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Unique_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture/uniquetriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture/Unique_Triplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/A_Pattern_Of_Stars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/A_Pattern_Of_Stars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Akshay_Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Akshay_Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/BinaryStringCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/BinaryStringCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/RemoveDuplicatesCharactersFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/RemoveDuplicatesCharactersFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/X_Pattern_of_starts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/X_Pattern_of_starts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Z_Pattern_of_Stars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/Z_Pattern_of_Stars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_19_7_MaximumRevenueGarage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_19_7_MaximumRevenueGarage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_19_7_ODD_AND_EVEN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_19_7_ODD_AND_EVEN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_20_7_DIVISIBILITY_CHECK_PROBLEM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_20_7_DIVISIBILITY_CHECK_PROBLEM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_22_7_X_Pattern_of_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_22_7_X_Pattern_of_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_7_FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_7_FindMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_7_Find_Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_7_Find_Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_8_Special_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_23_8_Special_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_26_Sum_of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_26_Sum_of_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_27_hcf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_27_hcf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_28_8_FactorialCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_28_8_FactorialCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_28_8_Password_Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_28_8_Password_Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_29_8_MerryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_29_8_MerryString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_30_8_Equal_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_30_8_Equal_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_6_8_Bulbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_6_8_Bulbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_6_8_FirstKWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_6_8_FirstKWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_7_8_Armstrong_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_7_8_Armstrong_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_7_8_Happy_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_101pages/_7_8_Happy_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Array_Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Array_Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Array_Union.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Array_Union.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/BinarySumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/BinarySumOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Encoding_Square_Of_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Encoding_Square_Of_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/LongestIncreasingSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/LongestIncreasingSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/LongestWordInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/LongestWordInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Message_Decryptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Message_Decryptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/ReversedWordPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/ReversedWordPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Same_Char_In_A_String_Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Accenture_35pages/Same_Char_In_A_String_Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/ASCIIPLUSNUMBERS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/ASCIIPLUSNUMBERS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/AlternateCAPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/AlternateCAPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/CandyCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/CandyCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/HeadTailsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/HeadTailsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/OccurrenceOfSecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/OccurrenceOfSecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/Positive_Word_Mid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/Positive_Word_Mid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/Replace_Characters_In_A_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/Replace_Characters_In_A_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/Rhyming_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/Rhyming_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/Superior_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/Superior_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/Asked2025/Typecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Asked2025/Typecasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/SubArrayWithoutRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/SubArrayWithoutRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/SubarrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/SubarrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/convert_string_to_onecase_basedon_count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/convert_string_to_onecase_basedon_count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/gcd_hcf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/gcd_hcf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/googly_prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/googly_prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/pallindromestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/pallindromestring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/MostAsked/substring_subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/MostAsked/substring_subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Car_Speed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Car_Speed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Clock_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Clock_Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Diwali_Contest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Diwali_Contest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Max_Three_Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Max_Three_Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Natural_number_addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Natural_number_addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Refueling_Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Refueling_Vehicles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/Store_Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/Store_Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/TalentBattle/The_Charity_Bake_Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/TalentBattle/The_Charity_Bake_Sale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pradip292"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pradip292/JAVA_DSA.git",
+    "accountId": "107cc11b-6bd1-4e8a-b159-fc30355e2b46"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2q9dgMRjt19WyrMEq7D80VYo99f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3425a5f-deed-4ecd-a824-597bb903c44a" name="Changes" comment="" />
+      <created>1734078834585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734078834585</updated>
+    </task>
+    <servers />
+  </component>
+</project>

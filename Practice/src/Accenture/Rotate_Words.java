@@ -3,7 +3,7 @@ package Accenture;
 import java.util.Arrays;
 import java.util.List;
 
-public class RotateWords {
+public class Rotate_Words {
     public static void main(String[] args) {
         String inputString = "The quick brown fox jumps over the lazy dog";
         int n = 2;

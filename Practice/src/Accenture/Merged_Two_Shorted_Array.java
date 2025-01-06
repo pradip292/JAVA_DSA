@@ -2,7 +2,7 @@ package Accenture;
 
 import java.util.ArrayList;
 
-public class mergetwosortedarray {
+public class Merged_Two_Shorted_Array {
     public static void main(String[] args){
         int[] arr1= {1,2,4,5,8,9};
         int[] arr2= {2,4,7,9,10,15,19};

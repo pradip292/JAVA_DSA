@@ -15,3 +15,4 @@ public class _23_7_FindMax {
         System.out.println(index);
     }
 }
+

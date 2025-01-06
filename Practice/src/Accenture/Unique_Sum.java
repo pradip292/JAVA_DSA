@@ -2,7 +2,7 @@ package Accenture;
 
 import java.util.HashSet;
 
-public class uniquesum{
+public class Unique_Sum{
     public static int solve(int n, int[] a)
     {
         HashSet<Integer> uniqueSums = new HashSet<>();

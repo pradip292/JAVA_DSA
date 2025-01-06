@@ -2,9 +2,9 @@ package Accenture;
 
 import java.util.HashSet;
 
-public class lengthofuniquecharacterinastring {
+public class Length_Of_Unique_Element_In_Array {
     public static void main(String[] args){
-        String str= "pradiwkhade";
+        String str= "pradip";
         int max=0;
         HashSet<Character> hs =new HashSet<>();
         for(int i=0; i<str.length();i++){

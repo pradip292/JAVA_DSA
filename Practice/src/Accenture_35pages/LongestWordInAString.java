@@ -15,6 +15,5 @@ public class LongestWordInAString {
         }
         System.out.println(str);
         System.out.println(max);
-
     }
 }

@@ -23,3 +23,4 @@ public class _20_7_DIVISIBILITY_CHECK_PROBLEM {
         }
     }
 }
+

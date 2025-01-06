@@ -21,3 +21,4 @@ public class Refueling_Vehicles {
         System.out.println(rf);
     }
 }
+

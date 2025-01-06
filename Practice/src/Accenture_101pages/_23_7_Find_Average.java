@@ -14,3 +14,4 @@ public class _23_7_Find_Average {
         System.out.println(sum/count);
     }
 }
+

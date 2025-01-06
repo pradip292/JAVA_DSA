@@ -2,7 +2,8 @@ package Accenture;
 
 import java.util.Scanner;
 
-public class findmidindexforequilibrium {
+public class Find_Equilibrium_Index
+{
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         int sz = 7;

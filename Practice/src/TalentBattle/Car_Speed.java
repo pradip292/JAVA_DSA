@@ -12,3 +12,4 @@ public class Car_Speed {
         System.out.println(res);
     }
 }
+

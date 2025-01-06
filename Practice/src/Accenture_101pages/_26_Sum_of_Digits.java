@@ -25,3 +25,4 @@ public class _26_Sum_of_Digits {
         System.out.println(rem2-rem1);
     }
 }
+

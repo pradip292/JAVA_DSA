@@ -1,6 +1,6 @@
 package Accenture;
 
-public class findmissingnumberinaarray {
+public class Find_Missing_Number{
 //    public static int find(int[] arr){
 //        int num=-1;
 //        for(int i=0; i<arr.length-1;i++){
@@ -36,3 +36,4 @@ public class findmissingnumberinaarray {
         System.out.println("The missing number is: " + find(arr));
     }
 }
+

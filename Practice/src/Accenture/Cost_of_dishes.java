@@ -17,3 +17,4 @@ public class Cost_of_dishes {
         System.out.println(max);
     }
 }
+

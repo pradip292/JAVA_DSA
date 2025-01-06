@@ -1,7 +1,7 @@
 package Accenture;
 import java.util.Arrays;
 import java.util.Scanner;
-public class uniquetriplets {
+public class Unique_Triplets {
     public static void main(String[] args) {
         System.out.println("Enter the Sum of triplets :");
         Scanner sc = new Scanner(System.in);

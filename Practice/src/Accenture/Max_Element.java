@@ -1,6 +1,6 @@
 package Accenture;
 
-public class findmaxinarray {
+public class Max_Element {
     public static void main(String[] args){
         int[] arr ={45,8,5,45,1,9,63,4,55};
         int max=0;
@@ -11,4 +11,5 @@ public class findmaxinarray {
         }
         System.out.println(max);
     }
+
 }

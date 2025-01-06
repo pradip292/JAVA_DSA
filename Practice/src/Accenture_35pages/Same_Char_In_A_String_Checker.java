@@ -57,5 +57,4 @@ public class Same_Char_In_A_String_Checker {
 
     }
 
-
 }

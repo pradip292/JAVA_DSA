@@ -46,7 +46,7 @@ public class Sorting {
             arr[i]=temp;
         }
     }
-
+    
     //take value and insert in right place using sorted and unsorted array
     public static void InsertionSort(int[] arr){
         for(int i=0;i< arr.length;i++) {
@@ -57,6 +57,7 @@ public class Sorting {
                 j--;
             }
             arr[j+1]=current;
+            
         }
     }
 
@@ -74,7 +75,6 @@ public class Sorting {
     //merge conquer
     public static void conquer(int[] arr,int si, int mid, int ei){
         int[] merged = new int[ei-si+1];
-        //int si=0;
         int i=si;
         int j=mid+1;
         int k=0;

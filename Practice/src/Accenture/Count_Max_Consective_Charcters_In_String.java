@@ -1,6 +1,6 @@
 package Accenture;
 
-public class countMaxRepeatedSubstrings {
+public class Count_Max_Consective_Charcters_In_String {
     public static void main(String[] args){
         int maxcount=1;
         int maxres=1;
@@ -17,3 +17,4 @@ public class countMaxRepeatedSubstrings {
         System.out.println(maxres);
     }
 }
+

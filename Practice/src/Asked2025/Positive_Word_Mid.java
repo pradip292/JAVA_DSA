@@ -34,3 +34,4 @@ public class Positive_Word_Mid {
         System.out.println(positivemid(arr));
     }
 }
+

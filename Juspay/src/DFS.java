@@ -6,7 +6,6 @@ class DFS {
         // Mark the current node as visited
         visited[node] = true;
         System.out.print(node + " ");
-
         // Explore all the adjacent nodes of the current node
         for (int neighbor : adjList.get(node)) {
             if (!visited[neighbor]) {

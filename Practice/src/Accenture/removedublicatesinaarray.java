@@ -26,5 +26,6 @@ public class removedublicatesinaarray {
         for(int i=0;i< res1.length;i++){
             System.out.print(res1[i]+" ");
         }
+
     }
 }

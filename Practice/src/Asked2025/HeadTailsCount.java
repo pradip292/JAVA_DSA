@@ -21,3 +21,4 @@ public class HeadTailsCount {
         System.out.println(sum);
     }
 }
+

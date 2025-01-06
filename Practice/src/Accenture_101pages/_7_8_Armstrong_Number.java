@@ -21,3 +21,4 @@ public class _7_8_Armstrong_Number {
         }
     }
 }
+

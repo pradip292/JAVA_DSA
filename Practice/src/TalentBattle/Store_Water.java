@@ -8,3 +8,4 @@ public class Store_Water {
         System.out.println((int)formula);
     }
 }
+

@@ -66,3 +66,4 @@ public class _28_8_Password_Checker {
         System.out.println(failedChecks);
     }
 }
+

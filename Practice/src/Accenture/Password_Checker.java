@@ -61,3 +61,4 @@ public class Password_Checker {
         System.out.println(checkPassword(str,str.length()));
     }
 }
+

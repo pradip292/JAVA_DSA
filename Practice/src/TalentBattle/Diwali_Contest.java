@@ -16,4 +16,5 @@ public class Diwali_Contest {
         }
         System.out.println(res);
     }
+
 }

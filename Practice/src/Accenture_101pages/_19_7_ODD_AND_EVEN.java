@@ -22,3 +22,4 @@ public class _19_7_ODD_AND_EVEN {
         System.out.println(odd.toString());
     }
 }
+

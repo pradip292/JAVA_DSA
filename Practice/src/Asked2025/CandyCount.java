@@ -15,6 +15,5 @@ public class CandyCount {
             }
         }
         System.out.println(count);
-
     }
 }
