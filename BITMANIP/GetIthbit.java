@@ -19,10 +19,6 @@ public class GetIthbit {
         else {
             System.out.println(1);
         }
-
-
-
-
     }
 
 }

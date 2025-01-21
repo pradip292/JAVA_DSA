@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3740fde6-23db-4da9-8079-fcbfba69315a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOPS/src/MyProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/src/MyProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/src/Static_Method_Before_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/MyHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays_Searching_Sorting/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays_Searching_Sorting/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays_Searching_Sorting/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays_Searching_Sorting/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays_Searching_Sorting/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays_Searching_Sorting/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays_Searching_Sorting/out/production/Arrays/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays_Searching_Sorting/out/production/Arrays/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITMANIP/GetIthbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/BITMANIP/GetIthbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/BinaryTrees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DivideAndConquer/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/DivideAndConquer/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked_List/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked_List/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NORMAL/object,java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/SuperKeyword/SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/SuperKeyword/SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/abtraction/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/abtraction/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/inheritance/BasicConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/inheritance/BasicConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/inheritance/MultiLevelInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/inheritance/MultiLevelInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/polymorphism/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/polymorphism/MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/Function_Overiding.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/src/Function_Overiding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/src/pract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/untitled1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +83,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Sanjivani/B Tech 4th Year/PLACEMENT/Java_Codes/Practice&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Sanjivani/B Tech 4th Year/PLACEMENT/Java_Codes/Stack",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

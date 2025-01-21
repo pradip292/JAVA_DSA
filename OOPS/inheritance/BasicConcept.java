@@ -1,16 +1,5 @@
-package oop.inheritance;
+// package oop.inheritance;
 
-public class BasicConcept {
-    public static void main(String[] args){
-        Fish shark = new Fish();
-
-        shark.eat();
-        shark.swim();
-
-    }
-
-
-}
 //base class
 class Animal{
     String color;
@@ -18,7 +7,10 @@ class Animal{
     void eat() {
         System.out.println("Animal eats");
     }
-
+    
+    void common(){
+        System.out.println("Animal");
+    }
     void breathe() {
         System.out.println("Animal class Breathes");
     }
@@ -27,10 +19,20 @@ class Animal{
 //Derived class
 class Fish extends Animal {
 
-    int fins;
-
+    void common(){
+        System.out.println("Fish");
+    }
     void swim() {
         System.out.println("Swims in the water");
     }
 
+}
+public class BasicConcept {
+    public static void main(String[] args){
+        Fish shark = new Fish();
+        shark.common();
+        // shark.eat();
+        // shark.swim();
+
+    }
 }

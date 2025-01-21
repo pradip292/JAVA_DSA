@@ -1,4 +1,4 @@
-package oop.polymorphism;
+// package oop.polymorphism;
 
 import java.net.StandardSocketOptions;
 
@@ -19,6 +19,7 @@ class Animal {
 
 class Deer extends Animal {
     void eat() {
-        System.out.println("Deer eats grass");
+        super.eat();
+        // System.out.println("Deer eats grass");
     }
 }

@@ -1,7 +1,6 @@
 package divideAndConquer;
 
 public class SearchInRotatedSortedArray {
-
     public static int search(int[] arr, int tar, int si, int ei) {
 
         // Terminating Condition
@@ -9,9 +8,7 @@ public class SearchInRotatedSortedArray {
             return -1;
         }
 
-
         // Searching
-
         int mid = si + (ei -si)/2;
         if (arr[mid] == tar) {
             return mid;

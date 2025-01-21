@@ -1,4 +1,3 @@
-//import sun.awt.image.ImageWatched;
 
 public class LinkedList {
     public static class Node{
@@ -9,6 +8,7 @@ public class LinkedList {
             this.next= null;
         }
     }
+
     public static Node head;
     public static Node tail;
     public static int size;

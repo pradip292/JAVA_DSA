@@ -1,22 +1,5 @@
-package oop.abtraction;
+// package oop.abtraction;
 
-public class AbstractClass {
-
-    public static void main(String[] args) {
-       // Animal a = new Animal(); this gives error
-
-        Horse h = new Horse();
-        System.out.println(h.color);
-        h.changeColor();
-        System.out.println(h.color);
-        h.eat();
-        h.walk();
-
-        Human human = new Human();
-        human.eat();
-        human.walk();
-    }
-}
 
 abstract class Animal {       //this class cannot have instance
     String color;
@@ -47,3 +30,22 @@ class Human extends Animal {
         System.out.println("Human walk on 2 legs");
     }
 }
+
+public class AbstractClass {
+
+    public static void main(String[] args) {
+       // Animal a = new Animal(); this gives error
+
+        Horse h = new Horse();
+        System.out.println(h.color);
+        h.changeColor();
+        System.out.println(h.color);
+        h.eat();
+        h.walk();
+
+        Human human = new Human();
+        human.eat();
+        human.walk();
+    }
+}
+

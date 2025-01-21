@@ -24,13 +24,10 @@ class AnimalMultiLevel {
 
 //Derived class
 class FishMultiLevel extends AnimalMultiLevel {
-
     int fins;
-
     void swim() {
         System.out.println("Swims in the water");
     }
-
 }
 
 class Shark extends FishMultiLevel {

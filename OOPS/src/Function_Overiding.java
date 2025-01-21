@@ -8,7 +8,7 @@ class Animal {
 // Child class
 class Dog extends Animal {
     // Overriding the sound() method
-    @Override
+//    @Override
     void sound() {
         System.out.println("Dog barks");
     }
@@ -17,7 +17,7 @@ class Dog extends Animal {
 public class Function_Overiding {
     public static void main(String[] args) {
         // Create an object of the parent class
-        Animal myAnimal = new Animal();
+        Dog myAnimal = new Dog();
         myAnimal.sound();  // Output: Animals make sounds
 
 //        // Create an object of the child class
